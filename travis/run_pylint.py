@@ -7,6 +7,7 @@ import ast
 import os
 import re
 import sys
+print(sys.version)
 
 import click
 import pylint.lint
